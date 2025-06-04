@@ -1,10 +1,10 @@
 === Photograph ===
 Contributors: themefreesia
 Tags: threaded-comments, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, flexible-header, post-formats, sticky-post, theme-options, translation-ready, photography, blog, portfolio
-Requires at least: 6.3
-Tested up to: 6.4
+Requires at least: 6.7
+Tested up to: 6.8.1
 Requires PHP: 5.6
-Stable tag: 1.3.0
+Stable tag: 1.3.1
 License: GNU General Public License version 3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -137,6 +137,9 @@ All the theme files and other un-specified scripts (customizer-custom-scripts.js
 =================================================================================
 
 == CHANGE LOG ==
+= 1.3.1 =
+	- Update - Tested with latest version of WordPress
+
 = 1.3.0 =
 	- Update - Latest Font icons updated to 6.5.1
 			 - Unwanted icon removed
